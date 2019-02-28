@@ -23,20 +23,18 @@ a:active {
     color: #3a5eb7;}
 
 h1 {
+  width: 650px;
+  height: 40px;
   padding-left: 20px;
   font-family: 'Bevan';
   font-size: 40px;
   color: #3a5eb7;
-  padding-bottom: 20px;}
+  padding-bottom: 20px;
+  padding-top: 10px;}
 h1 a {
   display: block;
   color: #3a5eb7;
-  text-align: center;
-  text-decoration: none;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;}
+  text-decoration: none;}
 h1 a:hover {
   background-color: #3a5eb7;}
 
@@ -82,3 +80,4 @@ h2 {
   font-size: 35px;
   padding-left: 20px;
   padding-top: 20px;}
+
