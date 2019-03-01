@@ -9,7 +9,6 @@ a:active {
 .logo {
   opacity: 0.5;
   filter: alpha(opacity=50);}
-
 a:link {
   color: #3a5eb7;}
 
@@ -45,10 +44,8 @@ ul {
   overflow: hidden;
   background-color: white;
   font-family: 'Roboto', sans-serif;}
-
 li {
   float: left;}
-
 li a {
   display: block;
   color: #3a5eb7;
@@ -58,7 +55,6 @@ li a {
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;}
-
 li a:hover {
   background-color: #3a5eb7;}
 
@@ -79,5 +75,24 @@ h2 {
   font-family: 'Bevan';
   font-size: 35px;
   padding-left: 20px;
-  padding-top: 20px;}
-
+  padding-top: 20px;
+  color: #3a5eb7;}
+h3 {
+  padding-left: 40px;
+  font-family: 'Roboto', sans-serif;
+  color: #5d677c;}
+h4 {
+  padding-left: 40px;
+  font-family: 'Roboto', sans-serif;
+  color: #5d677c;
+  padding-bottom: 15px;}
+h5 a:hover {
+  background-color: #3a5eb7;}
+.div3 {
+  padding-left: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  padding-right: 50px;}
+p {
+  text-indent: 30px;
+  padding-bottom: 10px;}
