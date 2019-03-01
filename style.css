@@ -80,7 +80,9 @@ h2 {
 h3 {
   padding-left: 40px;
   font-family: 'Roboto', sans-serif;
-  color: #5d677c;}
+  color: #5d677c;
+  padding-top: 5px;
+  padding-bottom: 5px;}
 h4 {
   padding-left: 40px;
   font-family: 'Roboto', sans-serif;
