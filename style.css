@@ -19,13 +19,14 @@ a:active {
     color: #3a5eb7;}
 
 h1 {
-  width: 650px;
+  width: 900px;
   height: 40px;
   padding-left: 20px;
   font-family: 'Bevan';
   font-size: 50px;
   color: #3a5eb7;
-  padding-top: 10px;}
+  padding-top: 10px;
+  padding-bottom: 15px;}
 h1 a {
   display: block;
   color: #3a5eb7;
@@ -133,7 +134,7 @@ h5 a:hover {
   height: 150px;
   padding-left: 20px;
   padding-top: 10px;
-  margin-bottom: 15px;}  
+  margin-bottom: 15px;}
 
 .title2 {
   font-size: 30px;
